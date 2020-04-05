@@ -1,4 +1,4 @@
-#This is a simple inventory program for a small car dealership.
+#Control your flow of car inventories, easily market them online and make informed dealership decisions with our Automotive Inventory Managementp.
 print('Automotive Inventory')
 class Automobile:
     def __init__(self):
